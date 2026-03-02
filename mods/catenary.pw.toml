@@ -1,0 +1,13 @@
+name = "Catenary"
+filename = "catenary-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zJIYJfn8/versions/FQuSLZeQ/catenary-0.6.0.jar"
+hash-format = "sha512"
+hash = "2af7835138f9125e95e87d13fd672fb32bf760d27d92cd1b6240c49f149891cbd66edc7ed2af93a5f4e8ac0baf11c5f794a1534e7b6c6d6ff841f9eac278ba58"
+
+[update]
+[update.modrinth]
+mod-id = "zJIYJfn8"
+version = "FQuSLZeQ"

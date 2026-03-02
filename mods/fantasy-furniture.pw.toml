@@ -1,0 +1,13 @@
+name = "Fantasy's Furniture"
+filename = "fantasyfurniture-21.10.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A0nfCqYw/versions/fsG9wh3i/fantasyfurniture-21.10.5.jar"
+hash-format = "sha512"
+hash = "9ab9fde230f03e2983e0120c4801c7ef95f41ded30e5a86c80987b806b6e83e6d38e1a603c92dda5f80f260b00be8347620e315311a1a1e9f55f5446fd2d0901"
+
+[update]
+[update.modrinth]
+mod-id = "A0nfCqYw"
+version = "fsG9wh3i"

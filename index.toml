@@ -16,8 +16,18 @@ hash = "c1f7da0593fa29c30d9c39654947da33e92cf969f093601bf7f7db61cc368cbd"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "8ab1059269643ea45ffc45bb41bcc6428e63c7350b9ed3b51ef13f99623f6c18"
+metafile = true
+
+[[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "58bd191c753979081fc79e02acef9d35b6ebe78fe86cf562a232bd9f632a9c26"
+metafile = true
+
+[[files]]
+file = "mods/apexcore.pw.toml"
+hash = "5e340e84eb041b99ea7de66cd5c5d68f719699543d05ef9fba732ceacfbc35bd"
 metafile = true
 
 [[files]]
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "3b537859514d778e5b6451fae25f622079b3a270bbcb8e20ade037d35f043971"
+metafile = true
+
+[[files]]
+file = "mods/catenary.pw.toml"
+hash = "dfc2841ac43027ab2bd4ebd130d91994639f50ac5c2bd14f6b21519d2e535b4a"
 metafile = true
 
 [[files]]
@@ -176,8 +191,18 @@ hash = "37995c0f2abd249cc36579043316e0e9f45e38b9e6c3b0b8c1cdbaa25c5d6537"
 metafile = true
 
 [[files]]
+file = "mods/fantasy-furniture.pw.toml"
+hash = "df5dd6cf8ce9f7f54f11397e5896045f41a09f70dfacf49f0c154eb326a450e1"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9f69fcdf8fab80b2095dc8c3e89d5cfc7685c812c8bdf424660b10bf660fd1d1"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b02a8bdeaed4033227429fe8182764a78db88b97008243cd7cd3dd98687c89b3"
 metafile = true
 
 [[files]]
@@ -261,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "9e51f8934b9ae578792e89ca0cc6d5158f4bc5f14fb1de199a5e40d1fab4dff0"
+hash = "7368966a4c32e07103560016bce82bd52ab200a51ff0cb1416ae23d83d8919dc"
 metafile = true
 
 [[files]]
@@ -337,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "5f2f3caf91aeccbd58bb6768eb5ff9c0a6a0347a0ef13f4a5cebee4d4806c21a"
+metafile = true
+
+[[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "2eb9ad47a0753142c433d5d505e915e3c05c36fd1e8da28f02f3ed5f75cdcff7"
 metafile = true
 
 [[files]]
@@ -440,6 +470,11 @@ hash = "27d2beab65b090b670b286fc05cc43b07582be21640c8eae0e0e4a0bf598e5d3"
 metafile = true
 
 [[files]]
+file = "mods/skniros-furniture.pw.toml"
+hash = "e7d5a3643edf433479488644daeace1c4a83949dd0fd81e26bedcf3cfec81f5b"
+metafile = true
+
+[[files]]
 file = "mods/snowy-weaponry.pw.toml"
 hash = "5afb22daeacb6fbf6577c7462e2f0bc81c6be90fdccad0d49b8debfbf5508478"
 metafile = true
@@ -485,6 +520,11 @@ hash = "3586f3131d0eb190f3b223aae492372ab9ac140421e1e88484353d73588fa127"
 metafile = true
 
 [[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "27048d8cc780009cb70f8111ab2f232076496afa9a88f1dee65fea1ec505c4c5"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "6289394c0060e1e698b35cfbf5bf5621fa6e455214eab03afe31e21474eb6998"
 metafile = true
@@ -512,6 +552,16 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "9ce82dabe8a4ec3f4bff08a2a76aa4be26d33ed764e6b545f12459bd47b50f62"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "68361fd061db2e280c24c1d4549c0f554ac28fbc67b31ad48498728ce2a588b3"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "4516d27dab3fb8b4eb46c59ef4210b7141efdb0d1117b756e0a5dc68b281511e"
 metafile = true
 
 [[files]]

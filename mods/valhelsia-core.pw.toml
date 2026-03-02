@@ -1,0 +1,13 @@
+name = "Valhelsia Core"
+filename = "valhelsia_core-neoforge-1.21.10-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HsdNFinx/versions/KrCWiqIn/valhelsia_core-neoforge-1.21.10-1.1.5.jar"
+hash-format = "sha512"
+hash = "3acbcaa14fb879bbe4519816afc95f0ff4fe8a126d44c42bc3f5a22c787f1a4f1ca6d4d30b66ff4acc78acf53b6b0035b5552189b70a5cb8bbc20910fc2ceb10"
+
+[update]
+[update.modrinth]
+mod-id = "HsdNFinx"
+version = "KrCWiqIn"

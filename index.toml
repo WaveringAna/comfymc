@@ -555,16 +555,6 @@ hash = "9ce82dabe8a4ec3f4bff08a2a76aa4be26d33ed764e6b545f12459bd47b50f62"
 metafile = true
 
 [[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "68361fd061db2e280c24c1d4549c0f554ac28fbc67b31ad48498728ce2a588b3"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "4516d27dab3fb8b4eb46c59ef4210b7141efdb0d1117b756e0a5dc68b281511e"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "6cb3b398e9e8aa0e3e87fa04a46b6954ab36ddcc8bd916f454073261aae8c0b9"
 metafile = true

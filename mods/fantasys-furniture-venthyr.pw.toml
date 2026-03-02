@@ -1,0 +1,13 @@
+name = "Fantasy's Furniture - Venthyr"
+filename = "fantasyfurniture-venthyr-21.10.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FjHW4JvP/versions/w54azYnz/fantasyfurniture-venthyr-21.10.5.jar"
+hash-format = "sha512"
+hash = "be1ad4cad1272eb2ffeea22410a4632c1224f9c2ef5fbc702ecbcb56cb3ed07bf87eb61c53fbb42f7bd566a84fcb273ee82c6b98123783b1d653c2660097b153"
+
+[update]
+[update.modrinth]
+mod-id = "FjHW4JvP"
+version = "w54azYnz"

@@ -196,6 +196,11 @@ hash = "df5dd6cf8ce9f7f54f11397e5896045f41a09f70dfacf49f0c154eb326a450e1"
 metafile = true
 
 [[files]]
+file = "mods/fantasys-furniture-venthyr.pw.toml"
+hash = "3f38fd8d0881d29d8323e1d26aa864f1ff8fe80afaaba34a18fff48a0014092e"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9f69fcdf8fab80b2095dc8c3e89d5cfc7685c812c8bdf424660b10bf660fd1d1"
 metafile = true

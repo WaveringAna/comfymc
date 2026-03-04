@@ -12,5 +12,5 @@ jobs:
         run: |
           curl -X POST https://nematodes.net/restart \
             -H "Content-Type: application/json" \
-            -H "X-Hub-Signature-256: sha256=${{ secrets.WEBHOOK_SECRET }}"
+            -H "X-Hub-Signature-256: sha256=${{ secrets.WEBHOOK_SECRET }}" \
             -d '{}'

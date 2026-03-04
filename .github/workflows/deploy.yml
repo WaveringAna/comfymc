@@ -1,0 +1,16 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  restart:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Restart service
+        run: |
+          curl -X POST https://on-her.computer/restart \
+            -H "Content-Type: application/json" \
+            -H "X-Hub-Signature-256: sha256=${{ secrets.WEBHOOK_SECRET }}"
+            -d '{}'

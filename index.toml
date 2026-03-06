@@ -460,6 +460,11 @@ hash = "ca47ac07ab084bd7f657a7771a264d9ce399ade1c2e678352e03bbf12c8b3281"
 metafile = true
 
 [[files]]
+file = "mods/riptide-drag-fix.pw.toml"
+hash = "85f5ab811ee5b7f770686a75a618109ca62d06260c3a8502d717d5b40217d1f4"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "0a6564b720c7b524d08e1f2c4d0b1a3a082bf98c5f3d142678cd5b25c16557ab"
 metafile = true

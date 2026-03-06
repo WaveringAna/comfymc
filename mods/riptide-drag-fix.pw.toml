@@ -1,0 +1,13 @@
+name = "Riptide Fix (Multiplayer Safe)"
+filename = "riptidefix-neoforge-1.1.0+mc1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W4IuW5yR/versions/9ayqxjEm/riptidefix-neoforge-1.1.0%2Bmc1.21.10.jar"
+hash-format = "sha512"
+hash = "5cb98c0a88e26e8ff6fdd0a6972d359ade0e71af36d7e839ea65a322157f82ec33704ed4159aed00a5316da5705ae3b2d5917404f3e48d89bb561147467a2ec6"
+
+[update]
+[update.modrinth]
+mod-id = "W4IuW5yR"
+version = "9ayqxjEm"
